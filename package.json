@@ -1,0 +1,22 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "Developer community",
+  "main": "index.js",
+  "scripts": {
+  "start":"node src/app.js",
+  "dev":"nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "Js",
+    "react",
+    "js",
+    "javascript"
+  ],
+  "author": "Anusha Veeramreddy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

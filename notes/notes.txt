@@ -1,0 +1,12 @@
+- Create a repository
+- Initialize he project with npm Initialize
+- node_modules, package.json and packagelock.json
+- install express in your app
+- Create a server
+- listen to port 3000
+- Write request handlers for /test, /hello
+- Install nodemon
+- update scripts inside package.json
+- 
+npm i -g nodemon => By installing nodemon we dont need to restart server again and again it automatically updates the server.
+
