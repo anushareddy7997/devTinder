@@ -1,0 +1,22 @@
+- Create a repository
+- Initialize he project with npm Initialize
+- node_modules, package.json and packagelock.json
+- install express in your app
+- Create a server
+- listen to port 3000
+- Write request handlers for /test, /hello
+- Install nodemon
+- update scripts inside package.json
+- What are dependencies
+- What is the use of -g while npm install
+- Difference between caret and tilde ( ^ Vs ~)
+
+- Initialize git in your repository
+- add gitignore
+- Create a remote repo on github
+- Push all code to remote origin
+- play with roues and route extensions ex: /hello, /, hello/2, /xyz
+- Order of the rotes matter
+- Install postman and make a workspace/collection >  test api call
+- Write logic to handle all the api calls and test it on postman
+

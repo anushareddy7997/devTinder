@@ -1,12 +1,19 @@
-- Create a repository
-- Initialize he project with npm Initialize
-- node_modules, package.json and packagelock.json
-- install express in your app
-- Create a server
-- listen to port 3000
-- Write request handlers for /test, /hello
-- Install nodemon
-- update scripts inside package.json
-- 
 npm i -g nodemon => By installing nodemon we dont need to restart server again and again it automatically updates the server.
+When ever we are listenting from server when ever the req is comming to server the code will start running from the top
+it starts matching the route from the start
+if the path is /hello it will retun the res result from /hello req handlers 
+if it is not /hello it will go the next req handler and check the path 
+And the order of the path is very very very important
 
+http methods
+get
+Create
+put 
+patch
+delete
+http://localhost:3000/xyz => When ever you type in some urlyou are basically making an get api call to http://localhost:3000/xyz 
+this route on our server
+By default when ever you write an url on top of the browser that is an get api call
+How do we make a post api call?
+For testing our api's we will not be using our browser
+use postman
