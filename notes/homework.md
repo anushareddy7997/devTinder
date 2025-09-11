@@ -19,4 +19,7 @@
 - Order of the rotes matter
 - Install postman and make a workspace/collection >  test api call
 - Write logic to handle all the api calls and test it on postman
-
+- Explore routing and use of ?, +, (), * in the routes
+- Use of regex in routes/a/, /.*fly$/
+- Reading the query params in the rotes
+- Reading the dynamic routes
